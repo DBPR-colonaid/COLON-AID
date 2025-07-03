@@ -1,0 +1,52 @@
+{
+    "device": "cuda",
+    "hidden_size": 512,
+    "img_feature_keys": [
+        "SAMMed3D",
+        "universal-clipdriven",
+        "fmcib",
+        "SAMMed2D"
+    ],
+    "map_task_ncls": {
+        "os_1yr": 2,
+        "os_2yr": 2,
+        "os_5yr": 2,
+        "pfs": 12,
+        "pfs_1yr": 2,
+        "pfs_2yr": 2,
+        "pfs_5yr": 2,
+        "survival": 12
+    },
+    "model": {
+        "batch_first": true,
+        "bias": true,
+        "dim_ct_former": 512,
+        "dim_feedforward": 2048,
+        "dim_video_former": 512,
+        "event_separator": false,
+        "event_time_embd": true,
+        "event_type_embd": true,
+        "gpu_checkpoint": false,
+        "max_sequence_len": 2048,
+        "max_video_frames": 256,
+        "move_attn_cpu": true,
+        "nhead": 8,
+        "num_dec_layers": 6,
+        "num_enc_layers": 6,
+        "num_layers": 2,
+        "num_traj_cls_tokens": 1
+    },
+    "survival_task_names": [
+        "survival"
+    ],
+    "survival_task_names_all": [
+        "survival"
+    ],
+    "task_names": [
+        "survival"
+    ],
+    "txt_feature_keys": [
+        "pulse_content_only",
+        "ernie_content_only"
+    ]
+}

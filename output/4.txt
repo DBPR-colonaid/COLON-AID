@@ -1,0 +1,20 @@
+Patient records: [
+    {
+        "date": "2009-11-06",
+        "event_type": "出入院记录",
+        "event_type_en": "admission",
+        "content": "入院日期：2009-11-06\n性别：男\n初次病理诊断年龄：60\n种族：黑人或非洲裔\n族裔：非西班牙裔或拉丁裔\n提交的肿瘤部位：直肠\n其他恶性肿瘤史：是\n新辅助治疗史：否\n初次病理诊断年份：2009\n解剖器官子分部：直肠乙状结肠交界处\n诊断时体重（kg）：95.5\n诊断时身高（cm）：180\n治疗前CEA水平：41.5\n结肠息肉史：否\n获取时结肠息肉指标：是\n注释：与先前/其他恶性肿瘤相关的不可接受先前治疗的病史：先前的前列腺癌接受过化疗治疗。\n先前的恶性肿瘤：先前的前列腺癌接受过化疗治疗。",
+        "content_en": "Admission Date: 2009-11-06\nGender: MALE\nAge at Initial Pathologic Diagnosis: 60\nRace: BLACK OR AFRICAN AMERICAN\nEthnicity: NOT HISPANIC OR LATINO\nSubmitted Tumor Site: Rectum\nHistory of Other Malignancy: YES\nHistory of Neoadjuvant Treatment: No\nYear of Initial Pathologic Diagnosis: 2009\nAnatomic Organ Subdivision: Rectosigmoid Junction\nWeight at Diagnosis (kg): 95.5\nHeight at Diagnosis (cm): 180\nCEA Level Before Treatment: 41.5\nHistory of Colon Polyps: NO\nColon Polyps at Procurement Indicator: YES\nAnnotation: History of unacceptable prior treatment related to a prior/other malignancy: Prior malignancy prostate cancer treated with chemotherapy.\nPrior malignancy: Prior malignancy prostate cancer treated with chemotherapy.\n\n"
+    },
+    {
+        "date": "2009-11-20",
+        "event_type": "病理报告",
+        "event_type_en": "pathology_report",
+        "content_en": "Residual Tumor: R0\nHistologic Diagnosis: Rectal Adenocarcinoma\nAnatomic Organ Subdivision: Rectosigmoid Junction\nLymph Nodes Examined: YES\nCount of Examined Lymph Nodes: 26\nCount of Lymph Nodes Examined with HE: 1\nAJCC Pathologic Tumor Stage: Stage IV\nAJCC Tumor Pathologic Stage (pT): T3\nAJCC Nodes Pathologic Stage (pN): N1\nAJCC Metastasis Pathologic Stage (pM): M1\nSpecimen Non-Node Tumor Deposits: NO\nVascular Invasion Indicator: NO\nLymphovascular Invasion Indicator: YES\nKRAS Gene Analysis Indicator: YES\nBRAF Gene Analysis Indicator: NO\nMismatch Repair Proteins Tested by IHC: NO\nKRAS Mutation Found: NO\n",
+        "content": "残留肿瘤：R0\n组织学诊断：直肠腺癌\n解剖器官子分类：直肠乙状结肠交界处\n检查淋巴结：是\n检查淋巴结数量：26\nHE检查淋巴结数量：1\nAJCC病理肿瘤阶段：第IV期\nAJCC肿瘤病理阶段（pT）：T3\nAJCC淋巴结病理阶段（pN）：N1\nAJCC转移病理阶段（pM）：M1\n非淋巴结肿瘤标本：无\n血管侵犯指标：无\n淋巴血管侵犯指标：有\nKRAS基因分析指标：有\nBRAF基因分析指标：无\n通过IHC检测错配修复蛋白：无\nKRAS突变：无"
+    }
+]
+    
+    Predicted risk:  6.58
+    Risk Percentile:  98.93%
+    

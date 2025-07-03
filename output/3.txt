@@ -1,0 +1,20 @@
+Patient records: [
+    {
+        "date": "2011-12-12",
+        "event_type": "出入院记录",
+        "event_type_en": "admission",
+        "content": "入院日期：2011-12-12\n性别：男\n初次病理诊断年龄：58\n种族：白人\n族裔：非西班牙裔或拉丁裔\n提交的肿瘤部位：结肠\n其他恶性肿瘤史：无\n新辅助治疗史：无\n初次病理诊断年份：2011\n解剖器官子分部：盲肠\n诊断时体重（kg）：91\n诊断时身高（cm）：183\n结肠息肉史：无\n获取时结肠息肉指标：无\n结直肠癌家族史：1\n注释：先前的恶性肿瘤：先前的恶性肿瘤鳞状细胞癌的腹股沟淋巴结。未接受系统化疗或放疗。",
+        "content_en": "Admission Date: 2011-12-12\nGender: MALE\nAge at Initial Pathologic Diagnosis: 58\nRace: WHITE\nEthnicity: NOT HISPANIC OR LATINO\nSubmitted Tumor Site: Colon\nHistory of Other Malignancy: NO\nHistory of Neoadjuvant Treatment: No\nYear of Initial Pathologic Diagnosis: 2011\nAnatomic Organ Subdivision: Cecum\nWeight at Diagnosis (kg): 91\nHeight at Diagnosis (cm): 183\nHistory of Colon Polyps: NO\nColon Polyps at Procurement Indicator: NO\nFamily History of Colorectal Cancer: 1\nAnnotation: Prior malignancy: Prior malignancy SCC of the inguinal lymph nodes. No systemic chemotherapy or radiation.\n\n"
+    },
+    {
+        "date": "2011-12-26",
+        "event_type": "病理报告",
+        "event_type_en": "pathology_report",
+        "content_en": "The pathological report details the findings from a partial colectomy of the right colon. Here's a summary of the key points:\nDiagnosis:\n- Tumor Type: Poorly differentiated adenocarcinoma.\n- Gene Expression: Deficient for MLH-1 and PMS2; intact for MSH-2 and MSH-6.\n- Tumor Characteristics:\n- Location: Cecum\n- Size: 12.9 x 5.0 x 1.5 cm\n- Subtype: Mucinous component present\n- Extent: Invades through muscularis propria into adjacent fat and to the inked surface.\n- Margins: Negative at proximal and distal margins; positive at circumferential (radial) margin.\n- Lymphovascular Invasion: Present\n- Lymph Node Status: 9 out of 16 lymph nodes show metastatic poorly differentiated carcinoma, with the largest node being 1.4 cm.\n- Staging: pT4a, pN2b.\nAdditional Findings:\n- Mismatch Repair Deficiency: The tumor shows DNA mismatch repair deficiency and is likely to have high-frequency microsatellite instability (MSI).\n- BRAF Mutation: No mutations detected in B-RAF exon 11, 12, and 15.\n- Immunohistochemical Stains: Tumor shows moderate to strong immunoreactivity for CK7, but CK20 is negative. Focal immunoreactivity for CDX2 supports a colorectal primary origin.\nClinical Implications:\n- Prognosis: DNA mismatch repair deficient cancers are associated with improved overall survival.\n- Chemotherapy: There may be resistance to 5-FU based chemotherapy and sensitivity to irinotecan (CPT-11).\n- Genetic Counseling: Considering the possibility of Lynch syndrome (hereditary non-polyposis colorectal cancer, HNPCC) due to the loss of MLH-1 expression. Testing for hypermethylation and family history evaluation recommended.\nGross Description:\n- Specimen: Includes terminal ileum, cecum, right colon, and vermiform appendix.\n- Tumor Description: A 12.8 x 5.0 x 1.5 cm fungating mass extending through the muscularis propria to within 0.1 cm of the inked deep margin.\nThe report suggests further genetic counseling and testing to determine the cause of MLH-1 loss, which could be due to somatic hypermethylation or a germline mutation.",
+        "content": "病理报告详细描述了右半结肠部分切除的发现。以下是主要要点的总结：\n诊断：\n- 肿瘤类型：低分化腺癌。\n- 基因表达：MLH-1和PMS2表达缺失；MSH-2和MSH-6表达完整。\n- 肿瘤特征：\n- 位置：盲肠\n- 大小：12.9 x 5.0 x 1.5 cm\n- 亚型：存在粘液成分\n- 程度：穿过肌层进入周围脂肪，并到达染色表面。\n- 边缘：近端和远端边缘阴性；周缘（径向）边缘阳性。\n- 淋巴血管侵犯：存在\n- 淋巴结状态：16个淋巴结中有9个显示低分化癌转移，最大的淋巴结为1.4 cm。\n- 分期：pT4a，pN2b。\n附加发现：\n- 错配修复缺陷：肿瘤显示DNA错配修复缺陷，可能具有高频率的微卫星不稳定性（MSI）。\n- BRAF突变：在B-RAF的11、12和15外显子中未检测到突变。\n- 免疫组化染色：肿瘤对CK7显示中度至强免疫反应，但对CK20阴性。对CDX2的局部免疫反应支持结肠直肠原发。\n临床意义：\n- 预后：DNA错配修复缺陷的癌症与总体生存率改善有关。\n- 化疗：可能对5-FU基化疗有抵抗性，对伊立替康（CPT-11）敏感。\n- 遗传咨询：考虑到由于MLH-1表达缺失可能存在Lynch综合征（遗传性非息肉性结肠癌，HNPCC）。建议进行甲基化测试和家族史评估。\n大体描述：\n- 标本：包括末端回肠，盲肠，右半结肠和阑尾。\n- 肿瘤描述：一个12.8 x 5.0 x 1.5 cm的真菌状肿块穿过肌层，距离染色深部边缘0.1 cm。\n报告建议进一步进行遗传咨询和测试，以确定MLH-1缺失的原因，可能是由于体细胞甲基化或遗传突变。"
+    }
+]
+    
+    Predicted risk:  6.17
+    Risk Percentile:  96.79%
+    
